@@ -20,4 +20,3 @@ docker run --name reference -itd -p 9667:3000 wcjiang/reference:latest
 ```bash
 http://localhost:9667/
 ```
-vercel也可部署
